@@ -1,0 +1,1 @@
+I’ve learned how to create repositories, clone them, use branches, and collaborate through pull requests on GitHub. It helped me understand how version control works in real projects.
